@@ -7,7 +7,7 @@ Day 2 - Enumerable
 2. Find how many words have a length equal to 5
 
 ```ruby
-"Tacos must not have lettuce. Only meat and cheese and salsa."
+"Tacos must not have lettuce Only meat and cheese and salsa"
 ```
 
 ### Part 2: Enumerable
